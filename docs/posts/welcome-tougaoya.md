@@ -1,5 +1,11 @@
 ---
-title: "welcome-tougaoya"
+version: 1
+title: 探索投稿鸭（TouGaoYa）的奇妙世界
+source_url: null
+cover: null
+tags: null
+category: null
+summary: null
 ---
 
 # 探索投稿鸭（TouGaoYa）的奇妙世界
@@ -319,9 +325,3 @@ Markdown 是一种简单、强大且易于掌握的标记语言，而投稿鸭�
 ### 推荐阅读
 
 - [投稿鸭官网](https://tougaoya.com)
-
----
-
-<center>
-    <img src="占位-二维码.png" alt="qr code" style="width: 100px;">
-</center>
